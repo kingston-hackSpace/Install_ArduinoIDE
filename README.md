@@ -2,7 +2,7 @@
 
 Go to the [ARDUINO Website](https://www.arduino.cc/en/software/) to install the Arduino IDE Software.
 
-Select your computer's operating system and download. Reference image [here](https://github.com/kingston-hackSpace/Install_ArduinoIDE/blob/main/Arduino%20Software%20Website%202025.png)
+Select your computer's operating system and click the download box. Reference image [here](https://github.com/kingston-hackSpace/Install_ArduinoIDE/blob/main/Arduino%20Software%20Website%202025.png)
 
 Once you downloaded, test that you can successfully open the software. 
 
