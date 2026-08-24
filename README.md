@@ -2,6 +2,8 @@
 
 ***ARDUINO IDE (software) is free***
 
+---
+
 INSTRUCTIONS:
 
 Go to the [ARDUINO Website](https://www.arduino.cc/en/software/) to install the Arduino IDE Software.
