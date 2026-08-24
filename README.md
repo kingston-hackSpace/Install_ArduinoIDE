@@ -12,14 +12,15 @@ Select your computer's operating system and click on the **DOWNLOAD** box. Refer
 
 Once you have downloaded the Arduino IDE, test that you can successfully open it. 
 
-If you get a "Software update" message, click on "Not now" ([reference image](https://github.com/kingston-hackSpace/Install_ArduinoIDE/blob/main/NotNow.png))
+If a "Software update" message pop-ups, click on "Not now" ([reference image](https://github.com/kingston-hackSpace/Install_ArduinoIDE/blob/main/NotNow.png))
 
-It should look like [this](https://github.com/kingston-hackSpace/Install_ArduinoIDE/blob/main/Arduino_scketch.png)
+Your Arduino IDE should look like [this](https://github.com/kingston-hackSpace/Install_ArduinoIDE/blob/main/Arduino_scketch.png)
 
 Done! You have successfully installed Arduino IDE on your computer.
 
 No further action needed. 
 
+-----
 # VIDEO INSTRUCTIONS
 
 [YOUTUBE INSTRUCTIONS ON WINDOWS](https://www.youtube.com/watch?v=vOxyXM4rzZA)
