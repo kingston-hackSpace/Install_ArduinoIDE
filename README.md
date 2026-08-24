@@ -1,6 +1,6 @@
 # Install ArduinoIDE
 
-**ARDUINO IDE (software) is free**
+*ARDUINO IDE software is free*
 
 ---
 
