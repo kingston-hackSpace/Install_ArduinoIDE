@@ -23,9 +23,9 @@ No further action needed.
 -----
 # VIDEO INSTRUCTIONS
 
-[YOUTUBE INSTRUCTIONS ON WINDOWS](https://www.youtube.com/watch?v=vOxyXM4rzZA)
+[YOUTUBE INSTRUCTIONS FOR WINDOWS](https://www.youtube.com/watch?v=vOxyXM4rzZA)
 
-[YOUTUBE INSTRUCTIONS ON MAC](https://www.youtube.com/watch?v=Lg-TtsZNgyw)
+[YOUTUBE INSTRUCTIONS FOR MAC](https://www.youtube.com/watch?v=Lg-TtsZNgyw)
 
 -----
 Last update: August 2026
